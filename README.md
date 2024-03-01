@@ -1,16 +1,11 @@
 # aspen_travel_app
 
-A new Flutter project.
+Kami dari kelompok empat membuat design app yang berasal dari design app figma link di bawah ini : 
+https://www.figma.com/file/LV5nNGPBLo8kX6ovTx8nrL/Aspen-Travel-App-Exploration--Mobile-App-Design-(Community)?type=design&node-id=0-11&mode=design&t=8VD5RJ5ze2xNfyv1-0
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Berikut ini adalah kelompok empat : 
+1. Abi Hanafi
+2. Alifah Nurul Ananda
+3. Azmal Syafiq Fakhri
+4. Dejan Putra Pratama
+5. Priscilla Linardy
